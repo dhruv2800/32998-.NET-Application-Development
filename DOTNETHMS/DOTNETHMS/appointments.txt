@@ -1,0 +1,8 @@
+Dr. Jack doctorson|David patientson|Regular checkup
+Dr. Jack doctorson|Davey Flu|Cold Symptoms
+Dr. Emily Davis|Jane Smith|Follow-up
+Dr. David doctorson|Full Name|flu
+Dr. David doctorson|David patientson|Flu
+Dr. David doctorson|David patientson|Flu
+Dr. David doctorson|David patientson|Flu
+Dr. David doctorson|David patientson|flu

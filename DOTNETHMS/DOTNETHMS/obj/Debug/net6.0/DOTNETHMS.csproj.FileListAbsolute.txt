@@ -1,0 +1,15 @@
+F:\New folder\DOTNETHMS\DOTNETHMS\obj\Debug\net6.0\DOTNETHMS.csproj.AssemblyReference.cache
+F:\New folder\DOTNETHMS\DOTNETHMS\obj\Debug\net6.0\DOTNETHMS.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\DOTNETHMS\DOTNETHMS\obj\Debug\net6.0\DOTNETHMS.AssemblyInfoInputs.cache
+F:\New folder\DOTNETHMS\DOTNETHMS\obj\Debug\net6.0\DOTNETHMS.AssemblyInfo.cs
+F:\New folder\DOTNETHMS\DOTNETHMS\obj\Debug\net6.0\DOTNETHMS.csproj.CoreCompileInputs.cache
+F:\New folder\DOTNETHMS\DOTNETHMS\bin\Debug\net6.0\DOTNETHMS.exe
+F:\New folder\DOTNETHMS\DOTNETHMS\bin\Debug\net6.0\DOTNETHMS.deps.json
+F:\New folder\DOTNETHMS\DOTNETHMS\bin\Debug\net6.0\DOTNETHMS.runtimeconfig.json
+F:\New folder\DOTNETHMS\DOTNETHMS\bin\Debug\net6.0\DOTNETHMS.dll
+F:\New folder\DOTNETHMS\DOTNETHMS\bin\Debug\net6.0\DOTNETHMS.pdb
+F:\New folder\DOTNETHMS\DOTNETHMS\obj\Debug\net6.0\DOTNETHMS.dll
+F:\New folder\DOTNETHMS\DOTNETHMS\obj\Debug\net6.0\refint\DOTNETHMS.dll
+F:\New folder\DOTNETHMS\DOTNETHMS\obj\Debug\net6.0\DOTNETHMS.pdb
+F:\New folder\DOTNETHMS\DOTNETHMS\obj\Debug\net6.0\DOTNETHMS.genruntimeconfig.cache
+F:\New folder\DOTNETHMS\DOTNETHMS\obj\Debug\net6.0\ref\DOTNETHMS.dll
